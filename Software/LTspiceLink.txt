@@ -1,0 +1,3 @@
+https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html
+
+Si alguno utiliza linux/debian el programa corre perfectamente con Wine
