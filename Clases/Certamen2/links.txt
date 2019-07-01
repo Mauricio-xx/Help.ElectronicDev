@@ -1,6 +1,5 @@
 recomiendo ver estos videos en orden. Estan ordenados en orden por complejidad de la explicacion.
 
-https://www.youtube.com/watch?v=t7JFf9NVGbY (concepto e ideas del funcionamiento)
 
 
 https://www.youtube.com/watch?v=t7JFf9NVGbY (comparacion con bjt, idea de retardos y circuitos de compensacion. Lectura de datasheet)
@@ -10,6 +9,6 @@ https://www.youtube.com/watch?v=ZMTA3hZGvZo (aplicacion con PWM)
 https://www.youtube.com/watch?v=xIvMhAWDIog (1 de 4, recomiendo ver los 4. MODELO MATEMATICO!! )
 
 
-
+https://www.youtube.com/watch?v=TT7m9Wlw7uI (ejercicio de polarizacion)
 
 
